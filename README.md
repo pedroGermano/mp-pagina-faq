@@ -4,8 +4,8 @@ Crie uma página contendo as respostas para as perguntas mais frequentes do seu 
 
 - Construa a aplicação com HTML, CSS e JavaScript.
 - As respostas para as perguntas devem ser colapsáveis
-	 - Ao clicar em uma pergunta, a resposta deverá aparecer logo abaixo.
-	 - Ao clicar novamente na mesma pergunta, a resposta deverá desaparecer.
+  - Ao clicar em uma pergunta, a resposta deverá aparecer logo abaixo.
+  - Ao clicar novamente na mesma pergunta, a resposta deverá desaparecer.
 - Não utilize frameworks de estilo. O objetivo é você praticar os fundamentos básicos de CSS.
 
 ### Deploy
